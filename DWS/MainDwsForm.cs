@@ -821,7 +821,6 @@ namespace DWS
                     "licensing.mp.microsoft.com",
                     "mediaredirect.microsoft.com",
                     "msftncsi.com",
-                    "officeclient.microsoft.com",
                     "oneclient.sfx.ms",
                     "pti.store.microsoft.com",
                     "query.prod.cms.rt.microsoft.com",
